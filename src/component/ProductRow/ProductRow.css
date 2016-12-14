@@ -1,0 +1,15 @@
+.dataList li{
+  width:100%;
+  height:30px;
+  list-style: none;
+}
+.dataList li span{
+  float:left;
+  width:100px;
+  height:28px;
+}
+.dataList li i{
+  font-style:normal;
+  float:left;
+  width:100px;
+};

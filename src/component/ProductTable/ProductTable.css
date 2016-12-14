@@ -1,0 +1,12 @@
+.tableBox{
+  overflow: hidden;
+}
+
+.tableBox h2{
+  padding-left:38px;
+  font-size:22px;
+}
+.tableBox h2 span{
+  float:left;
+  width:100px;
+}

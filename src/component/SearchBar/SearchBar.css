@@ -1,0 +1,14 @@
+.searchBar{
+  width:300px;
+  font-size:20px;
+}
+
+.searchBar .searchBox{
+  margin-left:38px;
+  display: block;
+  width:200px;
+  height:30px;
+  padding-left:10px;
+  font-size:20px;
+  margin-bottom: 10px;
+}
